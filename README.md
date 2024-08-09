@@ -1,6 +1,8 @@
 # Postman-Kata
-![Регистрируемся (Registration)] (https://github.com/ZT100RQ/Postman-Kata/blob/main/postman-kata-1.jpg)
+
 
 <p align="center">
- <img width="1000px" src="postman-kata-1.jpg" alt="qr"/>
+ <img width="1500px" src="postman-kata-1.jpg" />
+ <img width="1500px" src="postman-kata-2.jpg" />
+ <img width="1500px" src="postman-kata-3.jpg" />
 </p>
